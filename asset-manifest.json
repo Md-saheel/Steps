@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Steps-CH-1/static/css/main.29b0e223.css",
+    "main.js": "/Steps-CH-1/static/js/main.db95055a.js",
+    "index.html": "/Steps-CH-1/index.html",
+    "main.29b0e223.css.map": "/Steps-CH-1/static/css/main.29b0e223.css.map",
+    "main.db95055a.js.map": "/Steps-CH-1/static/js/main.db95055a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b0e223.css",
+    "static/js/main.db95055a.js"
+  ]
+}
